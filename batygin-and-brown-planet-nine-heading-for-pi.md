@@ -1,5 +1,5 @@
 ---
-title: Batygin and Brown: Planet Nine Heading for Pi 
+title: Batygin and Brown; Planet Nine Heading for Pi 
 menu_order: 1
 post_status: publish
 post_excerpt: ''
