@@ -1,5 +1,5 @@
 --- 
-title: Moos: China to Assist Israel in Construction of Island in Mediterranean Sea
+title: China to Assist Israel in Construction of Island in Mediterranean Sea
 menu_order: 1 
 post_status: publish 
 post_excerpt: 
