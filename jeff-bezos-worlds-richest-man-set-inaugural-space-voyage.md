@@ -1,9 +1,9 @@
 --- 
-title: 'Road to space': billionaire Bezos has successful suborbital jaunt
+title: 'Road to space' billionaire Bezos has successful suborbital jaunt
 menu_order: 1 
 post_status: publish 
 post_excerpt: 
-post_date: 07-25-2017 06:00:00 GMT
+post_date: '07-25-2017 06:00:00 GMT'
 taxonomy: 
     category: 
         - space 
