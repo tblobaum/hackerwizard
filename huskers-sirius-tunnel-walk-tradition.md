@@ -1,5 +1,5 @@
 --- 
-title: Moos: Huskers Sirius Tunnel Walk Tradition 
+title: Moos; Huskers Sirius Tunnel Walk Tradition 
 menu_order: 1 
 post_status: publish 
 post_excerpt: 
