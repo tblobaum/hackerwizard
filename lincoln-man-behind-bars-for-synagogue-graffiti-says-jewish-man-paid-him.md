@@ -15,7 +15,7 @@ custom_fields:
   url: https://zox.news/2021/02/19/lincoln-man-behind-bars-for-synagogue-graffiti-says-jewish-man-paid-him/
 ---
 
-[](../_images/templte-blackshirts-graffiti.jpg)
+[](_images/templte-blackshirts-graffiti.jpg)
 
 A 22-year-old Lincoln man convicted of a hate crime for spray-painting swastikas and racial epithets on a Lincoln synagogue, including a word so divisive it isn’t being covered by mainstream media: Blackshirts.
 
@@ -31,7 +31,7 @@ Miller, who pleaded no contest to criminal mischief enhanced as a hate crime and
 
 Deputy Lancaster County Attorney Tara Parapart said Miller hurt many people in the community with his actions.
 
-[](../_images/noah-miller.jpg)
+[](_images/noah-miller.jpg)
 
 22 year old Noah Miller
 “This wasn’t just spray paint on somebody’s door,” she said.
@@ -46,5 +46,5 @@ At sentencing, Jacobsen said that whether Miller wants to blame himself or someb
 
 “Nobody in this community should not feel safe when they go to a house of worship.” the judge said.
 
-[](../_images/temple-covered.jpg)
+[](_images/temple-covered.jpg)
 
