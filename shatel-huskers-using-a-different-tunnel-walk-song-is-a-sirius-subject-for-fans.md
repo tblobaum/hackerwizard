@@ -1,5 +1,5 @@
 ---
-title: Shatel: Huskers using a different Tunnel Walk song is a 'Sirius' subject for fans
+title: Huskers using a different Tunnel Walk song is a 'Sirius' subject for fans
 menu_order: 1
 post_status: publish
 post_excerpt: ''
