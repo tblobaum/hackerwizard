@@ -1,5 +1,5 @@
 --- 
-title: Moos: Nebraska Cornhuskers Unveil Road Version Of “Blackshirts” Alternate Uniform
+title: Nebraska Cornhuskers Unveil Road Version Of “Blackshirts” Alternate Uniform
 menu_order: 1 
 post_status: publish 
 post_excerpt: 
