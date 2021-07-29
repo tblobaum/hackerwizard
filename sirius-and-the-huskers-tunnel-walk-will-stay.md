@@ -1,5 +1,5 @@
 --- 
-title: Moos: Sirius and the Huskers Tunnel Walk Will Stay
+title: Sirius and the Huskers Tunnel Walk Will Stay
 menu_order: 1 
 post_status: publish 
 post_excerpt: 
